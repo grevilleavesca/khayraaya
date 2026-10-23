@@ -394,7 +394,7 @@ export default function App() {
       {open && (
         <div className="surprise">
           <button type="button" className="surprise-btn" onClick={openPhoto}>
-            click this, khayra!
+            try clicking this a few times keyii!
           </button>
           {PLAYLIST_URL && (
             <a className="playlist-link" href={PLAYLIST_URL} target="_blank" rel="noopener noreferrer">
